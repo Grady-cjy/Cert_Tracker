@@ -1,0 +1,20 @@
+{
+  "projectName": "印尼 SNI 认证材料收集台",
+  "lastUpdated": "2026-05-10",
+  "categories": [
+    {
+      "tabName": "官方与法律文件",
+      "items": [
+        { "id": "L1", "name": "境外工厂成立契据及修正案 (需双认证)", "isRequired": true, "status": "done" },
+        { "id": "L2", "name": "官方代表任命公证书 (Authentic Deed)", "isRequired": true, "status": "pending" }
+      ]
+    },
+    {
+      "tabName": "技术与体系文件",
+      "items": [
+        { "id": "T1", "name": "ISO 9001 / IATF 16949 体系证书", "isRequired": true, "status": "pending" },
+        { "id": "T2", "name": "产品质量控制计划 (Control Plan) - 印尼语翻译件", "isRequired": true, "status": "pending" }
+      ]
+    }
+  ]
+}
