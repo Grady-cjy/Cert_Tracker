@@ -55,4 +55,4 @@ if data:
                     st.rerun()
 
     st.divider()
-    st.info("💡 提示：目前的进度保存在你的浏览器临时记忆中。想要新增材料，只需修改 GitHub 上的 JSON 文件即可。")
+    st.info("💡 杭州佳度检测技术有限公司。")
